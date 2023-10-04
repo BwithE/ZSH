@@ -1,5 +1,6 @@
 # ZSH for Debian
 Bash script for ZSH install and configuration for Debian.
+
 Run this from your current users directory.
 
 Create a copy of the script and zshrc.txt file.
